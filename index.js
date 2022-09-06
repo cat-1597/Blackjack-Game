@@ -2,7 +2,7 @@
 //let secondCard = getRandomCard()
 let player = {
     name: "Kia",
-    chips: 500
+    chips: "$500"
 }
 
 let cards = [] // [firstCard, secondCard]
